@@ -1,0 +1,24 @@
+{
+  "cliente": {
+    "nombre": "Ana Soto",
+    "correo": "anasoto@gmail.com",
+    "teléfono": "733459224"
+  },
+  "productos": [
+    {
+      "nombre": "Pen Drive",
+      "cantidad": 3,
+      "precioUnitario": 10.49
+    },
+    {
+      "nombre": "Cargador",
+      "cantidad": 1,
+      "precioUnitario": 20.25
+    },
+    {
+      "nombre": "Mouse",
+      "cantidad": 5,
+      "precioUnitario": 25.00
+    }
+  ]
+}
